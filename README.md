@@ -4,7 +4,7 @@
 ## With a few lines of solidity code you can implement a staking mechanism, one of the most powerful incentive schemes in token economics.
 
 
-    Any mistakes that I make is an investment in my future. - Rose Namajunas
+    Welcome to my staking token - S.H.
 
 
 # Introduction to staking
